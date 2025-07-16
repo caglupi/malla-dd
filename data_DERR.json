@@ -1,0 +1,592 @@
+{
+  "s1": [
+    [
+      "DERECHO ROMANO I",
+      "ROM-I",
+      6,
+      0,
+      "ROM",
+      [],
+      "A"
+    ],
+    [
+      "INTRO A LA ECONOMIA",
+      "INTRO",
+      4,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO CONSTITUCIONAL I",
+      "CONST-I",
+      6,
+      0,
+      "CONS",
+      [],
+      "A"
+    ],
+    [
+      "INTRO A DERECHO POSITIVO",
+      "",
+      6,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "HISTORIA DEL DERECHO",
+      "",
+      5,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "LOGICA Y ARGUMENTACION",
+      "",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s2": [
+    [
+      "DERECHO ROMANO II",
+      "ROM-II",
+      6,
+      0,
+      "ROM",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO CONSTITUCIONAL II",
+      "CONST-II",
+      6,
+      0,
+      "CONS",
+      [
+        "CONST-I"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO NATURAL I",
+      "DNAT-I",
+      6,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "HISTORIA CONSTITUCIONAL DE CHILE",
+      "HISTC",
+      5,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "LECTURA CRITICA",
+      "CRIT",
+      4,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "PEG",
+      "PEG",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s3": [
+    [
+      "DERECHO CIVIL I",
+      "DCIV-I",
+      6,
+      0,
+      "CIV",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO CONSTITUCIONAL III",
+      "CONST-III",
+      5,
+      0,
+      "CONS",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO NATURAL II",
+      "DNAT-II",
+      6,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO PROCESAL I",
+      "DPROS-I",
+      6,
+      0,
+      "PROS",
+      [],
+      "A"
+    ],
+    [
+      "MINOR",
+      "MINOR",
+      4,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "PEG TEOLOGIA I",
+      "PEGI",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s4": [
+    [
+      "DERECHO CIVIL II",
+      "DCIV-II",
+      6,
+      0,
+      "CIV",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO ADMINISTRATIVO I",
+      "ADMIN-I",
+      5,
+      0,
+      "ADM",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO INTERNACIONAL",
+      "INTERN",
+      6,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO PROCESAL II",
+      "DRPOS-II",
+      6,
+      0,
+      "PROS",
+      [],
+      "A"
+    ],
+    [
+      "MINOR",
+      "MINOR",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "PEG TEOLOGIA II",
+      "PEGII",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s5": [
+    [
+      "DERECHO CIVIL III",
+      "DCIV-III",
+      6,
+      0,
+      "CIV",
+      [],
+      "A"
+    ],
+    [
+      "Derecho Administrativo II",
+      "DAdm-II",
+      5,
+      0,
+      "ADM",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO PENAL I",
+      "DPEN-I",
+      6,
+      0,
+      "PEN",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO PROCESAL III",
+      "DPROS-III",
+      6,
+      0,
+      "PROS",
+      [],
+      "A"
+    ],
+    [
+      "MINOR",
+      "MINOR",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "PEG TEOLOGIA III",
+      "PEGIII",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s6": [
+    [
+      "Derecho Administrativo III",
+      "DAdm-III",
+      6,
+      0,
+      "ADM",
+      [
+        "DAdm-III"
+      ],
+      "A"
+    ],
+    [
+      "Derecho Civil IV",
+      "DCIV-IV",
+      6,
+      0,
+      "CIV",
+      "A"
+    ],
+    [
+      "DERECHO PENAL II",
+      "DPEN-II",
+      6,
+      0,
+      "PEN",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO PROCESAL IV",
+      "DPROS-IV",
+      6,
+      0,
+      "PROS",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO COMERCIAL I",
+      "DCOM-I",
+      6,
+      0,
+      "COM",
+      [],
+      "A"
+    ]
+  ],
+  "s7": [
+    [
+      "DERECHO CIVIL V",
+      "DCIV-V",
+      6,
+      0,
+      "CIV",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO ECONOMICO I",
+      "DEC-I",
+      5,
+      0,
+      "ECO",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO COMERCIAL II",
+      "DER5010",
+      5,
+      0,
+      "COM",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO PENAL III",
+      "DPEN-III",
+      6,
+      0,
+      "PEN",
+      [
+        "DPEN-II"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO PROCESAL V",
+      "DPROS-V",
+      5,
+      0,
+      "PROS",
+      [
+        "DPROS-IV"
+      ],
+      "A"
+    ],
+    [
+      "PEG",
+      "PEGIC",
+      3,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s8": [
+    [
+      "DERECHO CIVIL VI",
+      "DCIV-VI",
+      6,
+      0,
+      "CIV",
+      [
+        "DCIV-V"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO ECONOMICO II",
+      "DEC-II",
+      5,
+      0,
+      "ECO",
+      [
+        "DEC-I"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO COMERCIAL III",
+      "DER5021",
+      6,
+      0,
+      "COM",
+      [
+        "DER5010"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO CANONICO",
+      "DCAN",
+      4,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO PROCESAL PENAL",
+      "DPRP",
+      5,
+      0,
+      "PROS",
+      [
+        "DPEN-III"
+      ],
+      "A"
+    ],
+    [
+      "OPTATIVO DER",
+      "OPT-I",
+      0,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s9": [
+    [
+      "DERECHO CIVIL VII",
+      "DCIV-VII",
+      6,
+      0,
+      "PC",
+      [
+        "DCIV-VI"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO TRIBUTARIO I",
+      "DER5011",
+      5,
+      0,
+      "TRIB",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO COMERCIAL IV",
+      "DCOM-IV",
+      3,
+      0,
+      "COM",
+      [
+        "DCIV-V"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO DEL TRABAJO 1",
+      "DTRAB",
+      5,
+      0,
+      "TRAB",
+      [],
+      "A"
+    ],
+    [
+      "ETICA PROFESIONAL",
+      "DER5013",
+      2,
+      0,
+      "RAND",
+      [],
+      "A"
+    ],
+    [
+      "CLINICA JURIDICA 1",
+      "CLIJ-I",
+      5,
+      0,
+      "CLIN",
+      [
+        "DPROS-V",
+        "DCIV-VI"
+      ],
+      "A"
+    ],
+    [
+      "OPTATIVO DER",
+      "OPT-II",
+      4,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ],
+  "s10": [
+    [
+      "DERECHO INTERNACIONAL PRIVADO",
+      "DPRIV",
+      5,
+      0,
+      "RAND",
+      [
+        "DCIV-VI"
+      ],
+      "A"
+    ],
+    [
+      "DERECHO TRIBUTARIO II",
+      "DER5022",
+      5,
+      0,
+      "TRIB",
+      [],
+      "A"
+    ],
+    [
+      "DERECHO DEL TRABAJO II",
+      "DTRAB-II",
+      5,
+      0,
+      "TRAB",
+      [],
+      "A"
+    ],
+    [
+      "LITIGACION",
+      "LIT",
+      3,
+      0,
+      "RAND",
+      [
+        "DCIV-VI",
+        "DPEN-III"
+      ],
+      "A"
+    ],
+    [
+      "CLINICA JURIDICA II",
+      "CLIJ-II",
+      5,
+      0,
+      "CLIN",
+      [
+        "DPROS-V",
+        "DCIV-VI"
+      ],
+      "A"
+    ],
+    [
+      "OPTATIVO DER",
+      "OPT-III",
+      4,
+      0,
+      "RAND",
+      [],
+      "A"
+    ]
+  ]
+}
